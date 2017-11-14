@@ -7,7 +7,7 @@ public class Genre {
 	
 	public Genre(){
 		
-	}
+	}//comm
 	//Constructeur
 	public Genre(String unCode, String unLib){
 		this.codeGenre = unCode;
