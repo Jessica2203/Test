@@ -1,7 +1,7 @@
 
 public class Genre {
 	//Attributs
-
+	//commentaire
 	private String codeGenre;
 	private String libelle;
 	
